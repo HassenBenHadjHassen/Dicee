@@ -1,0 +1,52 @@
+/* Background Stuff */
+
+body {
+    background-color: #187670;
+}
+
+.container-fluid {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+/* Winner Text */
+.winnerText {
+    color: #89cbbe;
+    -webkit-text-stroke: 1px black;
+}
+
+.winner {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 9rem;
+    line-height: 1.5;
+    letter-spacing: .75rem;
+    font-weight: bold;
+    position: relative;
+    top: 1rem;
+    right: 1rem;
+    
+    display: inline-block;
+}
+
+/* Dices */ 
+
+.dices {
+    margin-top: 7rem;
+}
+
+.playerTxt {
+    font-family: 'Grenze', serif;
+    font-size: 2rem;
+    color: #d6fff7;
+    font-weight: 600;
+}
+
+/* footer */ 
+
+.footer {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: .75rem;
+    color: #fffafa;
+    margin-top: 10rem;
+}
